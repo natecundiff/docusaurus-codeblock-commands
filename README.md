@@ -6,18 +6,18 @@ To add this component, simply copy the CodeBlock directory into your Docusaurus 
 
 To use it, add `showLineSymbols` to your code block. It needs to have a language, much like `showLineNumbers`.
 
-```
+````
 ```text showLineSymbols
 echo 'this is a test'
 ```
-```
+````
 
 This will display `$` in place of the line numbers by default.
 
 To change the symbol, add `symbol="<symbol>"`
 
-```
+````
 ```text showLineSymbols symbol=">"
 echo 'this is a test'
 ```
-```
+````
