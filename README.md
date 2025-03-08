@@ -21,3 +21,5 @@ To change the symbol, add `symbol="<symbol>"`
 echo 'this is a test'
 ```
 ````
+
+![Image](https://github.com/user-attachments/assets/52aa2cd8-f956-4d6a-bdcf-b1d3fd1e6f90)
